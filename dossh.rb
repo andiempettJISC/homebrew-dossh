@@ -4,8 +4,8 @@
 class Dossh < Formula
   desc "A simple interactive CLI utility to lookup existing digitalocean droplets and initialise and SSH session"
   homepage "https://github.com/androidwiltron/dossh"
-  url "https://github.com/androidwiltron/dossh/archive/refs/tags/v0.0.2.tar.gz"
-  sha256 "499415039665eeaf775af9a8f3f6a465d051769f845546edf5278c53fe69b919"
+  url "https://github.com/androidwiltron/dossh/archive/refs/tags/v0.0.3.tar.gz"
+  sha256 "8bfad2140721d6ffce219596e18d62f272f0d42635f44295ca2c5a1adb55feec"
   license "https://github.com/androidwiltron/dossh"
 
   depends_on "jq"
